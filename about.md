@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is basically use web technologies to build apps with
+* functionality expected of native apps, and 
+* appearance and performance which is more sporty than clunky
 
-### More Information
+### Drop a note to express interest in this or future posts or apps
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[interest@amppwa.app](mailto:interest@amppwa.app)
