@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is basically use web technologies to build apps with
-* functionality expected of native apps, and 
-* appearance and performance which is more sporty than clunky
+Use web technologies to build apps with functionality equal to native apps.
 
-### Drop a note to express interest in this or future posts or apps
+### Drop a note to express interest in posts or apps
 
 [interest@amppwa.app](mailto:interest@amppwa.app)
